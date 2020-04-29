@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">코로나알리미</string>
+    <string name="country_cure_rate_text">국내 완치율</string>
+    <string name="country_death_rate_text">국내 사망률</string>
+    <string name="etc_text">기타</string>
+    <string name="remain_text">나머지</string>
+    <string name="checking_text">검사중</string>
+    <string name="corona_positive_text">양성</string>
+    <string name="corona_negative_text">음성</string>
+    <string name="fragment_country_korona_confimer_text">국내 확진자 수:</string>
+    <string name="fragment_country_cure_num_text">국내 완치자 수:</string>
+    <string name="fragment_country_dead_num_text">국내 사망자 수:</string>
+    <string name="fragment_country_isolation_num_text">국내 격리자 수:</string>
+    <string name="checking_now_text">검사중 :</string>
+    <string name="inspection_result_positive_text">검사결과 양성 :</string>
+    <string name="inspection_result_negative_text">검사결과 음성 :</string>
+    <string name="inspection_result_complete_text">총 검사완료 수:</string>
+    <string name="today_cure_complete_text">오늘 하루 완치자 수:</string>
+    <string name="today_death_num_text">오늘 하루 사망자수:</string>
+    <string name="today_relative_num_text">전날 대비 환자수:</string>
+    <string name="menu_total_stat_title_text">전체 통계</string>
+    <string name="menu_local_stat_title_text">지역별 통계</string>
+    <string name="menu_ready_title_text">준비중</string>
+    <string name="city_select_location_text">지역을 선택해주세요</string>
+    <string name="city_newcase_num_text">신규확진환자수:</string>
+    <string name="city_totalcase_num_text">확진환자 수:</string>
+    <string name="city_recovered_num_text">완치자 수:</string>
+    <string name="city_death_num_text">사망자:</string>
+    <string name="city_percentage_text">발생률:</string>
+    <string name="city_newfcase_num_text">전일대비증감-해외유입:</string>
+    <string name="city_newccase_num_text">전일대비증감-지역발생:</string>
+</resources>

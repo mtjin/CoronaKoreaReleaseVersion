@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>선택</item>
+        <item>korea</item>
+        <item>seoul</item>
+        <item>busan</item>
+        <item>chungbuk</item>
+        <item>chungnam</item>
+        <item>daegu</item>
+        <item>daejeon</item>
+        <item>gangwon</item>
+        <item>gwangju</item>
+        <item>gyeongbuk</item>
+        <item>gyeonggi</item>
+        <item>gyeongnam</item>
+        <item>incheon</item>
+        <item>jeju</item>
+        <item>jeonbuk</item>
+        <item>jeonnam</item>
+        <item>sejong</item>
+        <item>ulsan</item>
+    </string-array>
+</resources>
